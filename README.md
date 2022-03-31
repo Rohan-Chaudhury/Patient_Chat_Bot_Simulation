@@ -6,3 +6,10 @@ Progress: Made a bigger dataset with 71 intents and responses, 60 lines of conte
 Wrote a python script for the final bot, models used: deepset/roberta-base-squad2 and sentence-transformers/paraphrase-xlm-r-multilingual-v1
 Model uses both context recognition and intent-based matching
 
+In order to retrain the model:
+
+  type <fine-tune_new> and follow the steps as mentioned in the output
+
+In order to fine-tune the model:
+
+  type <fine-tune_old> and follow the steps as mentioned in the output
