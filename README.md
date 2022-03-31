@@ -8,8 +8,8 @@ Model uses both context recognition and intent-based matching
 
 In order to retrain the model:
 
-  type <fine-tune_new> and follow the steps as mentioned in the output
+  type <fine-tune-new> and follow the steps as mentioned in the output
 
 In order to fine-tune the model:
 
-  type <fine-tune_old> and follow the steps as mentioned in the output
+  type <fine-tune-old> and follow the steps as mentioned in the output
