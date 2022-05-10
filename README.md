@@ -13,3 +13,5 @@ In order to retrain the model:
 In order to fine-tune the model:
 
   type \<fine-tune-old\> and follow the steps as mentioned in the output
+
+For live tuning use the command \<tuning-on\>
